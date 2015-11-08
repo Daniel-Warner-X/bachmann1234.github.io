@@ -1,0 +1,158 @@
+{
+  "basics": {
+    "name": "Matt Bachmann",
+    "label": "Programmer",
+    "picture": "me.jpeg",
+    "email": "bachmann.matt@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "I am a passionate developer with ties to the Python community. I solve problems with technology and continously strive to improve my craft. I love working with product, customers, and fellow developers to take an idea and turn it into an implementation. I want to join an organization where I can make a lasting impact and engage with the wider development community.",
+    "location": {
+      "city": "Somerville",
+      "countryCode": "US",
+      "region": "Massachusetts"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "Bachmann1234",
+        "url": "https://github.com/Bachmann1234"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Matt Bachmann",
+        "url": "https://www.linkedin.com/pub/matt-bachmann/50/568/34b"
+      },
+      {
+        "network": "Twitter",
+        "username": "mattbachmann",
+        "url": "https://twitter.com/mattbachmann"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cloudlock",
+      "position": "Software Engineer",
+      "website": "https://www.cloudlock.com/",
+      "startDate": "2012-10-01",
+      "summary": "Developed compliance and DLP applications on Google's App Engine and Amazons AWS cloud platforms.",
+      "highlights": [
+        "Built an internal service that scans millions of items per day for PCI, PII, Login Credentials and other information companies want to track in their various cloud environments",
+        "Integrated with cloud APIs to analyze data from several cloud platforms"
+      ]
+    },
+    {
+      "company": "CrunchTime! Information Systems",
+      "position": "Software Engineer",
+      "website": "http://www.crunchtime.com/",
+      "startDate": "2011-06-06",
+      "endDate": "2012-09-28",
+      "summary": "Developed and maintained a web application to assist restaurant managers in cutting costs by managing labor and inventory.",
+      "highlights": [
+        "Implemented several reports pages and ported legacy Perl code to modern Java",
+        "Assisted in transitioning from a Ant based build to a Maven build"
+      ]
+    },
+    {
+      "company": "Worcester Polytechnic Institute",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2009-08-01",
+      "endDate": "2012-05-31",
+      "summary": "Developed software to assist teachers in educating and assessing middle school students in cellular biology.",
+      "highlights": [
+        "Trained machine learned models to track and assess student behavior",
+        "Published and spoke at academic conferences discussing and demonstrating the value of advanced analytics when assessing student behavior."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Worcester Polytechnic Institute",
+      "area": "Computer Science",
+      "studyType": "Master Of Science",
+      "startDate": "2009-08-01",
+      "endDate": "2012-05-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Dickinson College",
+      "area": "Computer Science",
+      "studyType": "Bachelor fo Science",
+      "startDate": "2005-09-01",
+      "endDate": "2009-05-17",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Tracking Students’ Inquiry Paths through Student Transition Analysis",
+      "publisher": "The Third International Conference on Educational Data Mining",
+      "releaseDate": "2010",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Do Differences in Student’s Exploration Behavior lead to differences in  Domain Learning or Inquiry Skills?",
+      "publisher": "American Educational Research Association",
+      "releaseDate": "2011",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "WTF? Detecting Students who are  Conducting Inquiry Without Thinking Fastidiously",
+      "publisher": "The 20th conference on User Modeling, Adaptation, and Personalization",
+      "releaseDate": "2012",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Python (2.x, 3.x)",
+        "Java 8",
+        "Regular Expressions",
+        "SQL",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Google App Engine",
+        "Heroku",
+        "py.test",
+        "Hypothesis",
+        "Bootstrap",
+        "JQuery",
+        "Flask",
+        "Webapp2"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Git",
+        "Maven",
+        "Gradle",
+        "Flask",
+        "Ansible",
+        "PyCharm",
+        "IntelliJ"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
